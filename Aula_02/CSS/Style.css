@@ -1,0 +1,16 @@
+#mai /*Criamos a tag com "#"*/
+{
+    width: 400px; /*largura*/
+    height: 400px; /*altura*/
+    background-color: blueviolet; /*cor*/
+    margin-left: 40px; /*Margem fora da DIV, na pagina*/
+    padding-left: 40px; /*Margem na DIV*/
+    padding-top: 100px;
+}
+
+#men
+{
+    width: 200px; /*largura*/
+    height: 200px; /*altura*/
+    background-color: bisque; /*cor*/
+}

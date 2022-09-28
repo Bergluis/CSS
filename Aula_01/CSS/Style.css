@@ -1,0 +1,40 @@
+#cabecalho /*Criamos a tag com "#"*/
+{
+    width: 1100px; /*largura*/
+    height: 150px; /*altura*/
+    background-color: darkcyan; /*cor*/
+    border-style: solid; /*estilo da borda*/
+    border-color: coral; /*cor da borda*/
+    border-top-right-radius: 200px;
+}
+
+#corpo
+{
+    width: 1100px; /*largura*/
+    height: 500px; /*altura*/
+    background-color: darkcyan; /*cor*/
+    border-style: solid; /*estilo da borda*/
+    border-color: coral; /*cor da borda*/
+    border-top-left-radius: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#rodape
+{
+    width: 1100px; /*largura*/
+    height: 150px; /*altura*/
+    background-color: darkcyan; /*cor*/
+    border-style: solid; /*estilo da borda*/
+    border-color: coral; /*cor da borda*/
+}
+
+#tit_cabecalho
+{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+    width: 500px;
+    height: 150px;
+}

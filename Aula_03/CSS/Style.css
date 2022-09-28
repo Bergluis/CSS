@@ -1,0 +1,106 @@
+body{
+    text-align: center;
+}
+
+#corpo{
+    width: 1200px;
+    height: 975px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cab{
+    width: 1195px;
+    height: 130px;
+    border-style: solid;
+    border-color: orange;
+    text-align: center;
+}
+
+#logo{
+    width: 200px;
+    height: 85px;
+    border-style: solid;
+    border-color: blue;
+    text-align: center;
+    float: left;
+}
+
+#log{
+    width: 200px;
+    height: 85px;
+    border-style: solid;
+    border-color: navajowhite;
+    text-align: center;
+    float: right;
+}
+
+#menu{
+    width: 1190px;
+    height: 40px;
+    border-style: solid;
+    border-color: crimson;
+    margin-top: 71px;
+}
+
+#pesquisa{
+    width: 200px;
+    height: 700px;
+    border-style: solid;
+    border-color: teal;
+    float: left;
+    text-align: center;
+}
+
+#conteudo{
+    width: 988px;
+    height: 700px;
+    border-style: solid;
+    border-color: aqua;
+    float: right;
+}
+
+#caixa{
+    width: 380px;
+    height: 170px;
+    border-style: solid;
+    border-color: chocolate;
+    float: right;
+    margin-right: 70px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#caixa2{
+    width: 180px;
+    height: 210px;
+    border-style: solid;
+    border-color: greenyellow;
+    float: right;
+    margin-right: 110px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#caixa3{
+    width: 180px;
+    height: 210px;
+    border-style: solid;
+    border-color: greenyellow;
+    float: right;
+    margin-right: 110px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#rodape{
+    width: 1195px;
+    height: 130px;
+    border-style: solid;
+    border-color: coral;
+    margin-top: 705px;
+    text-align: center;
+}
