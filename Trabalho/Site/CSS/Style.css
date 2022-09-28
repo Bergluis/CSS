@@ -1,0 +1,170 @@
+body{
+    text-align: center;
+}
+
+#corpo{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#cab{
+    width: 100%;
+    height: auto;
+    background-color: gray;
+}
+
+#logo{
+    width: 27.35%;
+    height: 71.43%;
+}
+
+#opcoes{
+    width: 99.6%;
+    height: 28.57%;
+}
+
+#botao{
+    width: 22%;
+    height: 100%; 
+    float: right;
+    margin-left: 40px;
+}
+
+#botao1{
+    width: 22%;
+    height: 100%; 
+    float: right;
+    margin-left: 40px;
+}
+
+#botao2{
+    width: 22%;
+    height: 100%;
+    float: right;
+}
+
+#botao3{
+    width: 22%;
+    height: 100%;
+}
+
+#banner{
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+}
+
+#imagem1{
+    width: 37%;
+    height: auto;
+    float: left;
+    margin-left: 2.5%;
+    margin-top: 5%;
+}
+
+#imagem3{
+    width: 37%;
+    height: auto;
+    float: right;
+    margin-left: 2.5%;
+    margin-top: 15%;
+}
+
+#imagem4{
+    width: 30%;
+    height: auto;
+    float: left;
+    margin-right: 2.5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+#imagem5{
+    width: 63%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#imagem6{
+    width: 51%;
+    height: auto;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#texto1{
+    width: 50%;
+    height: auto;
+    float: right;
+    margin-right: 2.5%;
+    margin-top: 15%;
+}
+
+#texto2{
+    width: 50%;
+    height: auto;
+    float: right;
+    margin-right: 2.5%;
+    margin-top: 10%;
+}
+
+#texto3{
+    width: 50%;
+    height: auto;
+    float: left;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#texto4{
+    width: 50%;
+    height: auto;
+    float: right;
+    margin-top: 8%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+}
+
+#texto5{
+    width: 50%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#roda{
+    width: auto;
+    height: auto;
+    margin-top: 45%;
+}
+
+#roda2{
+    width: auto;
+    height: auto;
+    margin-top: 5%;
+}
+
+#menu{
+    width: 61%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+#botaos{
+    width: 24%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    max-width: 100%;
+}
